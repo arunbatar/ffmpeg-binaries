@@ -1,0 +1,13 @@
+{
+    "name": "passolution/ffmpeg-binaries",
+    "description": "FFMPEG Binaries",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Arun Batar",
+            "email": "arun@batar.com"
+        }
+    ],
+    "require": {},
+    "bin": ["bin/ffmpeg", "bin/ffprobe"]
+}
